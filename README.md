@@ -45,3 +45,4 @@ My journey in cybersecurity marketing has led me to develop a deep interest for 
 ## Projects
 - Home Lab (Kali Linux)
 - SOC Automation Project
+- TryHackMe
