@@ -35,7 +35,7 @@ As a marketing professional in the cybersecurity space, I've worked closely with
 
 ## Tools & Technologies
 
-### 🧠 Learning Platforms
+### Learning Platforms
 - **TryHackMe** ([@cyberella](https://tryhackme.com/p/cyberella))
 
 ### Network Security & Analysis
