@@ -9,8 +9,9 @@ Through my work in cybersecurity marketing, I’ve developed a deep understandin
 
 ## Cybersecurity Portfolio
 
-- **Threat Landscape Reports**  
-  - [Women4Cyber Threat Landscape Report](https://github.com/bmendesh/women4cyber-threat-report) — Research and analysis on cyber threats impacting women’s rights
+- **Threat Landscape Reports**
+  Research and analysis on cyber threats impacting women’s rights:
+  - [Women4Cyber Threat Landscape Report](https://github.com/bmendesh/women4cyber-threat-report)
 
 - **Ebooks**  
   Contributed to the structure, messaging, and positioning of cybersecurity ebooks:
