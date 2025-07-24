@@ -9,14 +9,12 @@ Through my work in cybersecurity marketing, I’ve developed a deep understandin
 
 ## Cybersecurity Portfolio
 
+- **Threat Landscape Reports**  
 - [Women4Cyber Threat Landscape Report](https://github.com/bmendesh/women4cyber-threat-report) — Research and analysis on cyber threats impacting women’s rights
-
-- **Attack Reports**  
-  Collaborated with analysts to shape and publish accessible summaries of technical threat reports.  
-  [📄 Attack Report (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/d93a7f93-dbfe-45da-8743-5f0c6b0bd110.pdf)
 
 - **Ebooks**  
   Contributed to the structure, messaging, and positioning of cybersecurity ebooks:
+  - [📄 Attack Report (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/d93a7f93-dbfe-45da-8743-5f0c6b0bd110.pdf)
   - [*Critical Infrastructure Cybersecurity* (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/3bb816ad-a88b-4c8f-ac36-fcf917cdafcb.pdf)
   - [*Cybersecurity for the Healthcare Industry* (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/02147aa1-9ddf-40d5-ba5e-2ad0197beb32.pdf)
 
