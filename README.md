@@ -5,8 +5,7 @@ I am an experienced marketer transitioning to cybersecurity with a profound inte
 
 ## Objective
 
-My journey in cybersecurity marketing has led me to develop a deep interest for cybersecurity itself, and I am now eager to transition into this field.
-As a marketing professional in the cybersecurity space, I've worked closely with cybersecurity teams to create impactful and technically accurate content that helps bridge the gap between technical expertise and strategic messaging.
+Through my work in cybersecurity marketing, I’ve developed a deep understanding of the field and a desire to move beyond marketing creation into hands-on cybersecurity roles. Having collaborated closely with security teams, I’m eager to leverage my knowledge and skills to contribute directly in CTI or penetration testing, bridging technical expertise with real-world cyber defense.
 
 ## Cybersecurity Portfolio
 
