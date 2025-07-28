@@ -15,7 +15,7 @@ Through my work in cybersecurity marketing, I’ve developed a deep understandin
  
 - **Project Assistance**  
   Contributed to automating Jira task creation for SOC to analyze IoCs from MISP.
-  - [MISP to Jira Automation]([(https://github.com/bmendesh/misp-to-jira-automation])
+  - [MISP to Jira Automation](https://github.com/bmendesh/misp-to-jira-automation)
 
 - **Ebooks**  
   Contributed to the structure, messaging, and positioning of cybersecurity ebooks:
