@@ -17,14 +17,11 @@ Through my work in cybersecurity marketing, I’ve developed a deep understandin
   Contributed to automating Jira task creation for SOC to analyze IoCs from MISP.
   - [MISP to Jira Automation](https://github.com/bmendesh/misp-to-jira-automation)
 
-- **Ebooks**  
-  Contributed to the structure, messaging, and positioning of cybersecurity ebooks:
+- **Content**  
+  Contributed to the structure, messaging, editing and positioning of cybersecurity contents:
   - [Attack Report (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/d93a7f93-dbfe-45da-8743-5f0c6b0bd110.pdf)
   - [Critical Infrastructure Cybersecurit (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/3bb816ad-a88b-4c8f-ac36-fcf917cdafcb.pdf)
   - [Cybersecurity for the Healthcare Industry (PDF)](https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000059413/02147aa1-9ddf-40d5-ba5e-2ad0197beb32.pdf)
-
-- **Blog Posts**  
-  Supported content planning and messaging for cybersecurity blog articles:
   - [Threat Intelligence Blog](https://www.threatintelligence.com/blog/)  
   - [What Is Threat Intelligence?](https://www.threatintelligence.com/blog/threat-intelligence)  
   - [How to Make Threat Intelligence Actionable](https://www.threatintelligence.com/blog/actionable-threat-intelligence)
