@@ -12,6 +12,10 @@ Through my work in cybersecurity marketing, I’ve developed a deep understandin
 - **Threat Landscape Reports**  
   Research and analysis on cyber threats impacting women’s rights:
   - [Women4Cyber Threat Landscape Report](https://github.com/bmendesh/women4cyber-threat-report)
+ 
+- **Project Assistance**  
+  Contributed to automating Jira task creation for SOC to analyze IoCs from MISP.
+  - [MISP to Jira Automation]([(https://github.com/bmendesh/misp-to-jira-automation])
 
 - **Ebooks**  
   Contributed to the structure, messaging, and positioning of cybersecurity ebooks:
